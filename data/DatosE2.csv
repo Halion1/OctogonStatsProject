@@ -1,0 +1,409 @@
+﻿Año de ingreso,Edad,Género,Distrito,Tiempo para almorzar,Almuerzo dentro de la universidad,Presupuesto diario para alimentos,Gasto diario en productos con octógonos,Importante la información nurticional,Realiza Deporte,A favor de los octógonos,Desde los octógonos considera una alimentación más saludable,Frecuencia de compras de las máquina de la UTEC (semanal),Influencia de los octógonos (1-10),Cumple su objetivo los octógonos
+2019,22,Femenino,VILLA MARIA DEL TRIUNFO,30 minutos - 1 hora,Sí,10-May,2,Sí,Sí,Sí,Sí,1,9,Sí
+2017,20,Femenino,BARRANCO,30 minutos - 1 hora,Sí,10-May,2,Sí,No,No,No,4,7,No
+2017,22,Masculino,COMAS,30 minutos - 1 hora,Sí,10-May,2,Sí,No,Sí,No,2,2,Sí
+2016,20,Femenino,LOS OLIVOS,30 minutos - 1 hora,No,20-Oct,5,Sí,No,Indiferente,No,1,7,Sí
+2018,19,Masculino,SURQUILLO,1 hora - 1.30 horas,Sí,20-Oct,0,Sí,No,Sí,No,4,3,Sí
+2018,18,Femenino,MIRAFLORES,30 minutos - 1 hora,No,0 - 5,0,Sí,Sí,Sí,Sí,1,3,Sí
+2019,21,Masculino,SANTIAGO DE SURCO,30 minutos - 1 hora,Sí,20-Oct,2,Sí,Sí,Indiferente,No,2,1,Sí
+2018,18,Femenino,BARRANCO,30 minutos - 1 hora,Sí,10-May,1,No,No,Indiferente,No,1,5,No
+2016,23,Femenino,SANTIAGO DE SURCO,30 minutos - 1 hora,Sí,0 - 5,1,No,No,Sí,No,3,3,No
+2016,20,Femenino,LOS OLIVOS,30 minutos - 1 hora,No,20-Oct,2,Sí,No,Indiferente,No,1,6,Sí
+2017,19,Femenino,LA MOLINA,30 minutos - 1 hora,Sí,20 - 30,5,Sí,Sí,Sí,Sí,2,8,Sí
+2017,19,Femenino,ATE,30 minutos - 1 hora,Sí,10-May,2,No,Sí,Sí,No,3,5,No
+2017,19,Femenino,CHORRILLOS,30 minutos - 1 hora,Sí,20-Oct,5,No,No,Sí,No,4,3,No
+2016,20,Femenino,SAN JUAN DE LURIGANCHO,30 minutos - 1 hora,Sí,20-Oct,3,Sí,No,Sí,Sí,3,7,Sí
+2017,20,Masculino,SAN MARTIN DE PORRES,menos de 30 minutos,No,20-Oct,6,Sí,No,Sí,No,7,6,Sí
+2018,18,Masculino,MIRAFLORES,1 hora - 1.30 horas,No,10-May,2,No,No,Sí,No,7,1,No
+2017,19,Femenino,CHORRILLOS,30 minutos - 1 hora,Sí,20-Oct,7,Sí,No,Sí,Sí,4,8,Sí
+2018,18,Femenino,JESÚS MARÍA,30 minutos - 1 hora,No,10-May,5,Sí,No,Sí,Sí,2,7,Sí
+2017,20,Femenino,SAN ISIDRO,menos de 30 minutos,Sí,10-May,2,Sí,Sí,Indiferente,No,2,3,Sí
+2018,25,Masculino,SANTIAGO DE SURCO,menos de 30 minutos,Sí,20-Oct,1,Sí,No,Sí,Sí,5,10,Sí
+2017,19,Femenino,LOS OLIVOS,30 minutos - 1 hora,No,20-Oct,2,Sí,No,Indiferente,No,2,4,Sí
+2017,19,Masculino,LURIGANCHO-CHOSICA,30 minutos - 1 hora,No,20-Oct,2,Sí,Sí,Sí,Sí,4,3,Sí
+2017,19,Femenino,BARRANCO,30 minutos - 1 hora,Sí,20-Oct,0,Sí,No,Sí,Sí,1,8,Sí
+2017,19,Femenino,BARRANCO,30 minutos - 1 hora,Sí,20-Oct,5,No,No,Sí,No,7,7,No
+2018,21,Masculino,SAN LUIS,30 minutos - 1 hora,No,10-May,3,No,No,Sí,No,2,6,No
+2017,18,Masculino,SANTIAGO DE SURCO,30 minutos - 1 hora,No,20-Oct,0,Sí,Sí,Sí,No,4,10,Sí
+2018,25,Masculino,MIRAFLORES,30 minutos - 1 hora,Sí,20-Oct,3,Sí,No,Sí,No,3,2,Sí
+2018,18,Femenino,MIRAFLORES,30 minutos - 1 hora,No,0 - 5,0,Sí,Sí,Sí,No,1,3,Sí
+2018,18,Masculino,SANTA ANITA,30 minutos - 1 hora,No,20-Oct,1,No,No,Sí,No,3,1,Sí
+2018,19,Femenino,LINCE,30 minutos - 1 hora,Sí,10-May,5,No,No,Sí,Sí,2,7,Sí
+2016,20,Masculino,CHORRILLOS,30 minutos - 1 hora,No,10-May,10,No,Sí,Sí,No,1,5,Sí
+2016,20,Femenino,LIMA,30 minutos - 1 hora,Sí,10-May,6,Sí,No,Indiferente,Sí,3,7,No
+2018,19,Masculino,SANTIAGO DE SURCO,30 minutos - 1 hora,No,20-Oct,5,Sí,No,Sí,No,3,6,Sí
+2018,18,Femenino,SANTIAGO DE SURCO,30 minutos - 1 hora,No,30 - 40,15,No,Sí,Sí,Sí,2,5,Sí
+2018,18,Femenino,LIMA,30 minutos - 1 hora,Sí,20-Oct,5,Sí,Sí,Sí,No,3,8,Sí
+2019,18,Femenino,LA MOLINA,30 minutos - 1 hora,Sí,10-May,0,Sí,Sí,Sí,No,1,2,Sí
+2017,19,Femenino,SAN BORJA,30 minutos - 1 hora,No,20 - 30,2,Sí,Sí,Sí,No,7,3,No
+2016,20,Femenino,SAN JUAN DE LURIGANCHO,30 minutos - 1 hora,Sí,20-Oct,3,Sí,No,Sí,Sí,3,7,Sí
+2017,20,Masculino,SAN MARTIN DE PORRES,1 hora - 1.30 horas,Sí,20-Oct,10,Sí,No,Sí,No,2,5,No
+2018,19,Masculino,LURIGANCHO-CHOSICA,30 minutos - 1 hora,Sí,10-May,0,Sí,No,Indiferente,No,1,7,Sí
+2018,19,Femenino,SANTIAGO DE SURCO,30 minutos - 1 hora,Sí,20-Oct,5,No,No,Sí,No,3,4,No
+2019,19,Femenino,MAGDALENA DEL MAR,30 minutos - 1 hora,Sí,0 - 5,5,Sí,Sí,Sí,Sí,1,5,Sí
+2017,19,Femenino,SANTA ANITA,30 minutos - 1 hora,Sí,10-May,2,Sí,No,Sí,No,4,5,No
+2018,18,Masculino,SAN LUIS,menos de 30 minutos,Sí,20-Oct,1,No,No,Sí,No,3,1,No
+2018,19,Masculino,VILLA MARIA DEL TRIUNFO,30 minutos - 1 hora,No,10-May,5,No,Sí,Indiferente,No,6,6,No
+2017,21,Masculino,SANTIAGO DE SURCO,30 minutos - 1 hora,Sí,10-May,5,No,No,Sí,No,1,1,Sí
+2018,19,Masculino,MIRAFLORES,1.30 horas - 2 horas,Sí,20 - 30,1,Sí,Sí,Sí,Sí,4,6,Sí
+2017,19,Masculino,SAN BORJA,30 minutos - 1 hora,Sí,10-May,3,No,Sí,Indiferente,No,3,1,No
+2019,18,Femenino,SAN JUAN DE MIRAFLORES,30 minutos - 1 hora,No,10-May,3,Sí,No,Sí,Sí,4,8,Sí
+2017,19,Masculino,BARRANCO,menos de 30 minutos,Sí,20 - 30,2,Sí,No,Sí,No,5,5,No
+2018,19,Femenino,LOS OLIVOS,30 minutos - 1 hora,Sí,10-May,5,Sí,Sí,Sí,Sí,3,8,Sí
+2019,18,Femenino,CHORRILLOS,30 minutos - 1 hora,No,20-Oct,5,Sí,Sí,Sí,Sí,4,7,Sí
+2019,19,Femenino,CARABAYLLO,30 minutos - 1 hora,Sí,10-May,5,Sí,No,Sí,Sí,6,9,No
+2018,19,Masculino,SAN BORJA,30 minutos - 1 hora,Sí,10-May,0,Sí,Sí,Indiferente,No,1,1,No
+2018,19,Femenino,RÍMAC,1 hora - 1.30 horas,Sí,20 - 30,8,No,Sí,Sí,No,2,6,Sí
+2018,19,Masculino,MIRAFLORES,30 minutos - 1 hora,Sí,10-May,2,Sí,Sí,Sí,Sí,3,8,Sí
+2018,17,Femenino,BARRANCO,30 minutos - 1 hora,Sí,20-Oct,5,Sí,No,Sí,No,4,7,No
+2016,20,Femenino,SANTIAGO DE SURCO,30 minutos - 1 hora,Sí,20-Oct,7,Sí,Sí,Sí,Sí,5,7,Sí
+2016,20,Masculino,VILLA EL SALVADOR,30 minutos - 1 hora,No,20-Oct,3,No,No,Sí,No,2,6,Sí
+2018,21,Masculino,VILLA MARIA DEL TRIUNFO,1 hora - 1.30 horas,No,50 +,5,Sí,Sí,Indiferente,No,3,5,No
+2018,19,Masculino,LIMA,30 minutos - 1 hora,Sí,10-May,1,Sí,No,Sí,No,1,1,Sí
+2017,19,Femenino,MAGDALENA DEL MAR,30 minutos - 1 hora,Sí,10-May,2,Sí,No,Sí,Sí,2,7,Sí
+2017,19,Masculino,LURIGANCHO-CHOSICA,30 minutos - 1 hora,Sí,20 - 30,5,Sí,Sí,Sí,Sí,3,7,Sí
+2016,21,Masculino,JESÚS MARÍA,30 minutos - 1 hora,Sí,10-May,2,Sí,No,Sí,No,5,5,Sí
+2019,17,Masculino,SANTIAGO DE SURCO,30 minutos - 1 hora,Sí,20-Oct,5,Sí,Sí,Sí,Sí,2,6,Sí
+2017,20,Femenino,MIRAFLORES,menos de 30 minutos,No,10-May,7,Sí,Sí,Sí,Sí,4,5,Sí
+2017,19,Masculino,SAN JUAN DE MIRAFLORES,menos de 30 minutos,Sí,0 - 5,1,No,Sí,Sí,No,5,3,No
+2017,19,Masculino,BARRANCO,menos de 30 minutos,Sí,20-Oct,18,Sí,No,Sí,No,6,6,Sí
+2017,19,Femenino,SANTIAGO DE SURCO,1 hora - 1.30 horas,No,0 - 5,0,Sí,Sí,Sí,Sí,1,4,Sí
+2017,20,Masculino,SAN MIGUEL,30 minutos - 1 hora,No,20-Oct,2,No,Sí,Indiferente,No,7,1,No
+2016,22,Masculino,LA MOLINA,30 minutos - 1 hora,Sí,20-Oct,5,Sí,Sí,Sí,Sí,2,7,Sí
+2019,20,Masculino,CHORRILLOS,30 minutos - 1 hora,No,20-Oct,1,Sí,Sí,Sí,No,2,1,No
+2018,18,Masculino,SAN LUIS,30 minutos - 1 hora,Sí,20-Oct,2,No,No,Indiferente,No,2,1,No
+2018,19,Femenino,MAGDALENA DEL MAR,30 minutos - 1 hora,No,10-May,0,Sí,Sí,Sí,Sí,1,3,Sí
+2017,20,Femenino,MIRAFLORES,menos de 30 minutos,Sí,10-May,5,Sí,Sí,Sí,Sí,2,7,Sí
+2016,20,Femenino,SURQUILLO,30 minutos - 1 hora,No,10-May,9,No,Sí,Indiferente,No,2,3,No
+2017,19,Masculino,VILLA EL SALVADOR,30 minutos - 1 hora,Sí,20-Oct,5,No,No,Indiferente,No,4,3,Sí
+2019,17,Masculino,SANTIAGO DE SURCO,1 hora - 1.30 horas,No,20 - 30,2,Sí,No,Sí,Sí,3,10,Sí
+2017,19,Masculino,BARRANCO,1 hora - 1.30 horas,No,10-May,2,Sí,Sí,Sí,No,3,4,No
+2018,18,Masculino,SANTIAGO DE SURCO,30 minutos - 1 hora,No,20-Oct,6,No,No,Indiferente,No,3,1,No
+2018,18,Femenino,BARRANCO,menos de 30 minutos,Sí,20-Oct,3,Sí,No,Sí,No,2,8,Sí
+2018,18,Femenino,SANTIAGO DE SURCO,30 minutos - 1 hora,Sí,10-May,3,No,No,Sí,No,3,1,Sí
+2017,18,Masculino,LIMA,30 minutos - 1 hora,Sí,20-Oct,70,Sí,No,Sí,No,7,8,Sí
+2017,19,Femenino,ATE,30 minutos - 1 hora,Sí,20-Oct,1,Sí,No,Sí,Sí,1,8,Sí
+2018,18,Masculino,SAN MIGUEL,30 minutos - 1 hora,Sí,10-May,20,Sí,No,Indiferente,No,2,1,Sí
+2017,20,Masculino,SAN MARTIN DE PORRES,30 minutos - 1 hora,Sí,20-Oct,3,Sí,No,Sí,No,1,5,No
+2019,17,Masculino,SANTIAGO DE SURCO,1 hora - 1.30 horas,No,20 - 30,2,Sí,No,Sí,Sí,3,10,Sí
+2017,19,Femenino,ATE,30 minutos - 1 hora,Sí,20-Oct,1,Sí,No,Sí,Sí,1,8,Sí
+2018,19,Femenino,MIRAFLORES,30 minutos - 1 hora,Sí,20 - 30,2,Sí,Sí,Sí,No,4,8,Sí
+2018,20,Femenino,SAN ISIDRO,30 minutos - 1 hora,Sí,30 - 40,1,Sí,Sí,Sí,Sí,2,10,Sí
+2017,19,Femenino,BARRANCO,30 minutos - 1 hora,No,20-Oct,10,Sí,Sí,Sí,Sí,7,10,Sí
+2016,22,Femenino,LA VICTORIA,menos de 30 minutos,No,10-May,3,Sí,Sí,Sí,Sí,5,10,Sí
+2017,19,Femenino,BARRANCO,30 minutos - 1 hora,Sí,20-Oct,1,Sí,No,Sí,Sí,5,8,Sí
+2017,19,Femenino,BARRANCO,30 minutos - 1 hora,Sí,20-Oct,1,Sí,No,Sí,Sí,5,8,Sí
+2016,21,Femenino,JESÚS MARÍA,1.30 horas - 2 horas,Sí,10-May,0,No,Sí,Sí,No,2,5,No
+2018,18,Femenino,SAN MIGUEL,menos de 30 minutos,No,20 - 30,0,Sí,No,Sí,Sí,5,5,Sí
+2018,18,Femenino,SANTIAGO DE SURCO,30 minutos - 1 hora,Sí,20-Oct,0,Sí,No,Sí,Sí,2,7,No
+2016,20,Masculino,SURQUILLO,30 minutos - 1 hora,No,10-May,1,Sí,Sí,Sí,Sí,1,6,No
+2016,24,Masculino,SANTIAGO DE SURCO,30 minutos - 1 hora,No,20-Oct,1,Sí,Sí,Sí,Sí,4,9,Sí
+2018,19,Femenino,MIRAFLORES,30 minutos - 1 hora,Sí,20 - 30,2,Sí,Sí,Sí,No,4,8,Sí
+2017,22,Masculino,SAN MIGUEL,30 minutos - 1 hora,No,20 - 30,6,Sí,Sí,Sí,No,3,6,No
+2018,18,Masculino,CHORRILLOS,1.30 horas - 2 horas,No,10-May,2,No,Sí,Sí,No,2,2,Sí
+2019,17,Masculino,SAN BORJA,1.30 horas - 2 horas,Sí,20-Oct,2,No,Sí,Indiferente,No,3,1,Sí
+2017,21,Masculino,LA MOLINA,30 minutos - 1 hora,Sí,20-Oct,1,Sí,Sí,Sí,Sí,2,9,Sí
+2018,19,Femenino,SANTIAGO DE SURCO,30 minutos - 1 hora,No,30 - 40,5,No,No,Sí,No,1,4,Sí
+2019,20,Masculino,PUEBLO LIBRE,30 minutos - 1 hora,Sí,10-May,4,No,No,No,No,5,1,No
+2018,18,Masculino,MIRAFLORES,1 hora - 1.30 horas,No,30 - 40,1,Sí,Sí,Sí,No,3,8,Sí
+2016,21,Masculino,LA MOLINA,30 minutos - 1 hora,No,20-Oct,3,Sí,Sí,Sí,No,2,2,Sí
+2018,19,Femenino,LA MOLINA,30 minutos - 1 hora,Sí,20-Oct,5,Sí,Sí,Indiferente,No,4,5,No
+2016,21,Masculino,SAN ISIDRO,1 hora - 1.30 horas,No,20-Oct,1,Sí,No,Sí,Sí,2,7,Sí
+2018,18,Femenino,BARRANCO,30 minutos - 1 hora,No,0 - 5,0,Sí,Sí,Sí,No,1,2,Sí
+2017,21,Femenino,SAN JUAN DE MIRAFLORES,30 minutos - 1 hora,Sí,10-May,4,No,No,Indiferente,No,3,1,No
+2019,16,Masculino,MIRAFLORES,30 minutos - 1 hora,Sí,20-Oct,5,No,Sí,Indiferente,No,1,4,No
+2017,19,Masculino,SANTIAGO DE SURCO,30 minutos - 1 hora,Sí,10-May,5,Sí,No,Sí,No,2,1,Sí
+2017,27,Masculino,MIRAFLORES,30 minutos - 1 hora,No,10-May,2,Sí,Sí,Sí,Sí,1,9,Sí
+2019,17,Femenino,MIRAFLORES,30 minutos - 1 hora,No,10-May,5,Sí,No,Sí,No,5,7,Sí
+2017,19,Masculino,CHORRILLOS,30 minutos - 1 hora,Sí,10-May,4,Sí,Sí,Sí,No,5,6,Sí
+2017,20,Femenino,SANTIAGO DE SURCO,1 hora - 1.30 horas,Sí,20-Oct,5,No,No,Sí,No,7,1,Sí
+2017,20,Masculino,LURIGANCHO-CHOSICA,30 minutos - 1 hora,Sí,0 - 5,5,Sí,No,Sí,Sí,1,8,Sí
+2019,19,Masculino,CHORRILLOS,menos de 30 minutos,Sí,10-May,2,Sí,Sí,Sí,Sí,1,9,Sí
+2019,17,Masculino,BARRANCO,30 minutos - 1 hora,No,10-May,5,Sí,No,Sí,No,2,1,No
+2018,18,Femenino,CHORRILLOS,30 minutos - 1 hora,Sí,0 - 5,0,Sí,Sí,Sí,No,1,1,Sí
+2018,18,Masculino,VILLA EL SALVADOR,1 hora - 1.30 horas,No,10-May,5,Sí,Sí,Sí,Sí,1,7,Sí
+2019,17,Femenino,PUEBLO LIBRE,1 hora - 1.30 horas,Sí,20 - 30,0,Sí,No,Sí,Sí,3,7,Sí
+2019,22,Femenino,SAN JUAN DE MIRAFLORES,30 minutos - 1 hora,No,10-May,1,No,Sí,Indiferente,No,2,6,No
+2018,18,Masculino,ATE,30 minutos - 1 hora,No,20-Oct,0,Sí,No,Sí,No,1,1,Sí
+2018,19,Masculino,CHORRILLOS,30 minutos - 1 hora,Sí,20-Oct,8,No,Sí,Sí,Sí,4,5,Sí
+2018,18,Masculino,CHORRILLOS,30 minutos - 1 hora,Sí,20-Oct,2,Sí,Sí,Sí,No,4,4,Sí
+2019,17,Femenino,LOS OLIVOS,1 hora - 1.30 horas,Sí,10-May,2,Sí,No,Sí,Sí,2,7,Sí
+2019,18,Femenino,SAN JUAN DE MIRAFLORES,menos de 30 minutos,Sí,10-May,2,Sí,Sí,Sí,No,1,4,No
+2017,19,Masculino,MIRAFLORES,30 minutos - 1 hora,No,10-May,1,Sí,Sí,Sí,Sí,1,8,Sí
+2019,17,Femenino,MIRAFLORES,1 hora - 1.30 horas,Sí,0 - 5,1,No,No,Indiferente,No,2,3,Sí
+2018,19,Femenino,SANTIAGO DE SURCO,1 hora - 1.30 horas,Sí,10-May,0,No,No,Indiferente,No,1,1,No
+2019,17,Masculino,CHORRILLOS,1 hora - 1.30 horas,No,10-May,2,Sí,Sí,Sí,No,2,5,Sí
+2018,20,Masculino,SANTIAGO DE SURCO,menos de 30 minutos,Sí,10-May,2,No,No,Indiferente,No,7,1,No
+2018,17,Masculino,LOS OLIVOS,30 minutos - 1 hora,Sí,10-May,0,Sí,No,Sí,Sí,1,6,Sí
+2018,19,Masculino,VILLA MARIA DEL TRIUNFO,30 minutos - 1 hora,No,10-May,5,No,Sí,Indiferente,No,6,6,No
+2017,21,Masculino,SANTIAGO DE SURCO,30 minutos - 1 hora,Sí,10-May,5,No,No,Sí,No,1,1,Sí
+2018,19,Masculino,MIRAFLORES,1.30 horas - 2 horas,Sí,20 - 30,1,Sí,Sí,Sí,Sí,4,6,Sí
+2017,19,Masculino,SAN BORJA,30 minutos - 1 hora,Sí,10-May,3,No,Sí,Indiferente,No,3,1,No
+2019,18,Femenino,SAN JUAN DE MIRAFLORES,30 minutos - 1 hora,No,10-May,3,Sí,No,Sí,Sí,4,8,Sí
+2017,19,Masculino,BARRANCO,menos de 30 minutos,Sí,20 - 30,2,Sí,No,Sí,No,5,5,No
+2018,19,Femenino,LOS OLIVOS,30 minutos - 1 hora,Sí,10-May,5,Sí,Sí,Sí,Sí,3,8,Sí
+2019,18,Femenino,CHORRILLOS,30 minutos - 1 hora,No,20-Oct,5,Sí,Sí,Sí,Sí,4,7,Sí
+2019,19,Femenino,CARABAYLLO,30 minutos - 1 hora,Sí,10-May,5,Sí,No,Sí,Sí,6,9,No
+2018,19,Masculino,SAN BORJA,30 minutos - 1 hora,Sí,10-May,0,Sí,Sí,Indiferente,No,1,1,No
+2018,19,Femenino,RÍMAC,1 hora - 1.30 horas,Sí,20 - 30,8,No,Sí,Sí,No,2,6,Sí
+2018,19,Masculino,MIRAFLORES,30 minutos - 1 hora,Sí,10-May,2,Sí,Sí,Sí,Sí,3,8,Sí
+2018,17,Femenino,BARRANCO,30 minutos - 1 hora,Sí,20-Oct,5,Sí,No,Sí,No,4,7,No
+2016,20,Femenino,SANTIAGO DE SURCO,30 minutos - 1 hora,Sí,20-Oct,7,Sí,Sí,Sí,Sí,5,7,Sí
+2016,20,Masculino,VILLA EL SALVADOR,30 minutos - 1 hora,No,20-Oct,3,No,No,Sí,No,2,6,Sí
+2018,21,Masculino,VILLA MARIA DEL TRIUNFO,1 hora - 1.30 horas,No,50 +,5,Sí,Sí,Indiferente,No,3,5,No
+2018,19,Masculino,LIMA,30 minutos - 1 hora,Sí,10-May,1,Sí,No,Sí,No,1,1,Sí
+2017,19,Femenino,MAGDALENA DEL MAR,30 minutos - 1 hora,Sí,10-May,2,Sí,No,Sí,Sí,2,7,Sí
+2017,19,Masculino,LURIGANCHO-CHOSICA,30 minutos - 1 hora,Sí,20 - 30,5,Sí,Sí,Sí,Sí,3,7,Sí
+2016,21,Masculino,JESÚS MARÍA,30 minutos - 1 hora,Sí,10-May,2,Sí,No,Sí,No,5,5,Sí
+2019,17,Masculino,SANTIAGO DE SURCO,30 minutos - 1 hora,Sí,20-Oct,5,Sí,Sí,Sí,Sí,2,6,Sí
+2017,20,Femenino,MIRAFLORES,menos de 30 minutos,No,10-May,7,Sí,Sí,Sí,Sí,4,5,Sí
+2017,19,Masculino,SAN JUAN DE MIRAFLORES,menos de 30 minutos,Sí,0 - 5,1,No,Sí,Sí,No,5,3,No
+2017,19,Masculino,BARRANCO,menos de 30 minutos,Sí,20-Oct,18,Sí,No,Sí,No,6,6,Sí
+2017,19,Femenino,SANTIAGO DE SURCO,1 hora - 1.30 horas,No,0 - 5,0,Sí,Sí,Sí,Sí,1,4,Sí
+2017,20,Masculino,SAN MIGUEL,30 minutos - 1 hora,No,20-Oct,2,No,Sí,Indiferente,No,7,1,No
+2016,22,Masculino,LA MOLINA,30 minutos - 1 hora,Sí,20-Oct,5,Sí,Sí,Sí,Sí,2,7,Sí
+2019,20,Masculino,CHORRILLOS,30 minutos - 1 hora,No,20-Oct,1,Sí,Sí,Sí,No,2,1,No
+2018,18,Masculino,SAN LUIS,30 minutos - 1 hora,Sí,20-Oct,2,No,No,Indiferente,No,2,1,No
+2018,19,Femenino,MAGDALENA DEL MAR,30 minutos - 1 hora,No,10-May,0,Sí,Sí,Sí,Sí,1,3,Sí
+2017,20,Femenino,MIRAFLORES,menos de 30 minutos,Sí,10-May,5,Sí,Sí,Sí,Sí,2,7,Sí
+2016,20,Femenino,SURQUILLO,30 minutos - 1 hora,No,10-May,9,No,Sí,Indiferente,No,2,3,No
+2017,19,Masculino,VILLA EL SALVADOR,30 minutos - 1 hora,Sí,20-Oct,5,No,No,Indiferente,No,4,3,Sí
+2019,17,Masculino,SANTIAGO DE SURCO,1 hora - 1.30 horas,No,20 - 30,2,Sí,No,Sí,Sí,3,10,Sí
+2017,19,Masculino,BARRANCO,1 hora - 1.30 horas,No,10-May,2,Sí,Sí,Sí,No,3,4,No
+2018,18,Masculino,SANTIAGO DE SURCO,30 minutos - 1 hora,No,20-Oct,6,No,No,Indiferente,No,3,1,No
+2018,18,Femenino,BARRANCO,menos de 30 minutos,Sí,20-Oct,3,Sí,No,Sí,No,2,8,Sí
+2018,18,Femenino,SANTIAGO DE SURCO,30 minutos - 1 hora,Sí,10-May,3,No,No,Sí,No,3,1,Sí
+2017,18,Masculino,LIMA,30 minutos - 1 hora,Sí,20-Oct,70,Sí,No,Sí,No,7,8,Sí
+2017,19,Femenino,ATE,30 minutos - 1 hora,Sí,20-Oct,1,Sí,No,Sí,Sí,1,8,Sí
+2018,18,Masculino,SAN MIGUEL,30 minutos - 1 hora,Sí,10-May,20,Sí,No,Indiferente,No,2,1,Sí
+2017,20,Masculino,SAN MARTIN DE PORRES,30 minutos - 1 hora,Sí,20-Oct,3,Sí,No,Sí,No,1,5,No
+2019,17,Masculino,SANTIAGO DE SURCO,1 hora - 1.30 horas,No,20 - 30,2,Sí,No,Sí,Sí,3,10,Sí
+2017,19,Femenino,ATE,30 minutos - 1 hora,Sí,20-Oct,1,Sí,No,Sí,Sí,1,8,Sí
+2018,19,Femenino,MIRAFLORES,30 minutos - 1 hora,Sí,20 - 30,2,Sí,Sí,Sí,No,4,8,Sí
+2019,22,Femenino,VILLA MARIA DEL TRIUNFO,30 minutos - 1 hora,Sí,10-May,2,Sí,Sí,Sí,Sí,1,9,Sí
+2017,20,Femenino,BARRANCO,30 minutos - 1 hora,Sí,10-May,2,Sí,No,No,No,4,7,No
+2017,22,Masculino,COMAS,30 minutos - 1 hora,Sí,10-May,2,Sí,No,Sí,No,2,2,Sí
+2016,20,Femenino,LOS OLIVOS,30 minutos - 1 hora,No,20-Oct,5,Sí,No,Indiferente,No,1,7,Sí
+2018,19,Masculino,SURQUILLO,1 hora - 1.30 horas,Sí,20-Oct,0,Sí,No,Sí,No,4,3,Sí
+2018,18,Femenino,MIRAFLORES,30 minutos - 1 hora,No,0 - 5,0,Sí,Sí,Sí,Sí,1,3,Sí
+2019,21,Masculino,SANTIAGO DE SURCO,30 minutos - 1 hora,Sí,20-Oct,2,Sí,Sí,Indiferente,No,2,1,Sí
+2018,18,Femenino,BARRANCO,30 minutos - 1 hora,Sí,10-May,1,No,No,Indiferente,No,1,5,No
+2016,23,Femenino,SANTIAGO DE SURCO,30 minutos - 1 hora,Sí,0 - 5,1,No,No,Sí,No,3,3,No
+2016,20,Femenino,LOS OLIVOS,30 minutos - 1 hora,No,20-Oct,2,Sí,No,Indiferente,No,1,6,Sí
+2017,19,Femenino,LA MOLINA,30 minutos - 1 hora,Sí,20 - 30,5,Sí,Sí,Sí,Sí,2,8,Sí
+2017,19,Femenino,ATE,30 minutos - 1 hora,Sí,10-May,2,No,Sí,Sí,No,3,5,No
+2017,19,Femenino,CHORRILLOS,30 minutos - 1 hora,Sí,20-Oct,5,No,No,Sí,No,4,3,No
+2016,20,Femenino,SAN JUAN DE LURIGANCHO,30 minutos - 1 hora,Sí,20-Oct,3,Sí,No,Sí,Sí,3,7,Sí
+2017,20,Masculino,SAN MARTIN DE PORRES,menos de 30 minutos,No,20-Oct,6,Sí,No,Sí,No,7,6,Sí
+2018,18,Masculino,MIRAFLORES,1 hora - 1.30 horas,No,10-May,2,No,No,Sí,No,7,1,No
+2017,19,Femenino,CHORRILLOS,30 minutos - 1 hora,Sí,20-Oct,7,Sí,No,Sí,Sí,4,8,Sí
+2018,18,Femenino,JESÚS MARÍA,30 minutos - 1 hora,No,10-May,5,Sí,No,Sí,Sí,2,7,Sí
+2017,20,Femenino,SAN ISIDRO,menos de 30 minutos,Sí,10-May,2,Sí,Sí,Indiferente,No,2,3,Sí
+2018,25,Masculino,SANTIAGO DE SURCO,menos de 30 minutos,Sí,20-Oct,1,Sí,No,Sí,Sí,5,10,Sí
+2017,19,Femenino,LOS OLIVOS,30 minutos - 1 hora,No,20-Oct,2,Sí,No,Indiferente,No,2,4,Sí
+2017,19,Masculino,LURIGANCHO-CHOSICA,30 minutos - 1 hora,No,20-Oct,2,Sí,Sí,Sí,Sí,4,3,Sí
+2017,19,Femenino,BARRANCO,30 minutos - 1 hora,Sí,20-Oct,0,Sí,No,Sí,Sí,1,8,Sí
+2017,19,Femenino,BARRANCO,30 minutos - 1 hora,Sí,20-Oct,5,No,No,Sí,No,7,7,No
+2018,21,Masculino,SAN LUIS,30 minutos - 1 hora,No,10-May,3,No,No,Sí,No,2,6,No
+2017,18,Masculino,SANTIAGO DE SURCO,30 minutos - 1 hora,No,20-Oct,0,Sí,Sí,Sí,No,4,10,Sí
+2018,25,Masculino,MIRAFLORES,30 minutos - 1 hora,Sí,20-Oct,3,Sí,No,Sí,No,3,2,Sí
+2018,18,Femenino,MIRAFLORES,30 minutos - 1 hora,No,0 - 5,0,Sí,Sí,Sí,No,1,3,Sí
+2018,18,Masculino,SANTA ANITA,30 minutos - 1 hora,No,20-Oct,1,No,No,Sí,No,3,1,Sí
+2018,19,Femenino,LINCE,30 minutos - 1 hora,Sí,10-May,5,No,No,Sí,Sí,2,7,Sí
+2016,20,Masculino,CHORRILLOS,30 minutos - 1 hora,No,10-May,10,No,Sí,Sí,No,1,5,Sí
+2016,20,Femenino,LIMA,30 minutos - 1 hora,Sí,10-May,6,Sí,No,Indiferente,Sí,3,7,No
+2018,19,Masculino,SANTIAGO DE SURCO,30 minutos - 1 hora,No,20-Oct,5,Sí,No,Sí,No,3,6,Sí
+2018,18,Femenino,SANTIAGO DE SURCO,30 minutos - 1 hora,No,30 - 40,15,No,Sí,Sí,Sí,2,5,Sí
+2018,18,Femenino,LIMA,30 minutos - 1 hora,Sí,20-Oct,5,Sí,Sí,Sí,No,3,8,Sí
+2019,18,Femenino,LA MOLINA,30 minutos - 1 hora,Sí,10-May,0,Sí,Sí,Sí,No,1,2,Sí
+2017,19,Femenino,SAN BORJA,30 minutos - 1 hora,No,20 - 30,2,Sí,Sí,Sí,No,7,3,No
+2016,20,Femenino,SAN JUAN DE LURIGANCHO,30 minutos - 1 hora,Sí,20-Oct,3,Sí,No,Sí,Sí,3,7,Sí
+2017,20,Masculino,SAN MARTIN DE PORRES,1 hora - 1.30 horas,Sí,20-Oct,10,Sí,No,Sí,No,2,5,No
+2018,19,Masculino,LURIGANCHO-CHOSICA,30 minutos - 1 hora,Sí,10-May,0,Sí,No,Indiferente,No,1,7,Sí
+2018,19,Femenino,SANTIAGO DE SURCO,30 minutos - 1 hora,Sí,20-Oct,5,No,No,Sí,No,3,4,No
+2019,19,Femenino,MAGDALENA DEL MAR,30 minutos - 1 hora,Sí,0 - 5,5,Sí,Sí,Sí,Sí,1,5,Sí
+2017,19,Femenino,SANTA ANITA,30 minutos - 1 hora,Sí,10-May,2,Sí,No,Sí,No,4,5,No
+2018,18,Masculino,SAN LUIS,menos de 30 minutos,Sí,20-Oct,1,No,No,Sí,No,3,1,No
+2018,20,Femenino,SAN ISIDRO,30 minutos - 1 hora,Sí,30 - 40,1,Sí,Sí,Sí,Sí,2,10,Sí
+2017,19,Femenino,BARRANCO,30 minutos - 1 hora,No,20-Oct,10,Sí,Sí,Sí,Sí,7,10,Sí
+2016,22,Femenino,LA VICTORIA,menos de 30 minutos,No,10-May,3,Sí,Sí,Sí,Sí,5,10,Sí
+2017,19,Femenino,BARRANCO,30 minutos - 1 hora,Sí,20-Oct,1,Sí,No,Sí,Sí,5,8,Sí
+2017,19,Femenino,BARRANCO,30 minutos - 1 hora,Sí,20-Oct,1,Sí,No,Sí,Sí,5,8,Sí
+2016,21,Femenino,JESÚS MARÍA,1.30 horas - 2 horas,Sí,10-May,0,No,Sí,Sí,No,2,5,No
+2018,18,Femenino,SAN MIGUEL,menos de 30 minutos,No,20 - 30,0,Sí,No,Sí,Sí,5,5,Sí
+2018,18,Femenino,SANTIAGO DE SURCO,30 minutos - 1 hora,Sí,20-Oct,0,Sí,No,Sí,Sí,2,7,No
+2016,20,Masculino,SURQUILLO,30 minutos - 1 hora,No,10-May,1,Sí,Sí,Sí,Sí,1,6,No
+2016,24,Masculino,SANTIAGO DE SURCO,30 minutos - 1 hora,No,20-Oct,1,Sí,Sí,Sí,Sí,4,9,Sí
+2018,19,Femenino,MIRAFLORES,30 minutos - 1 hora,Sí,20 - 30,2,Sí,Sí,Sí,No,4,8,Sí
+2017,22,Masculino,SAN MIGUEL,30 minutos - 1 hora,No,20 - 30,6,Sí,Sí,Sí,No,3,6,No
+2018,18,Masculino,CHORRILLOS,1.30 horas - 2 horas,No,10-May,2,No,Sí,Sí,No,2,2,Sí
+2019,17,Masculino,SAN BORJA,1.30 horas - 2 horas,Sí,20-Oct,2,No,Sí,Indiferente,No,3,1,Sí
+2017,21,Masculino,LA MOLINA,30 minutos - 1 hora,Sí,20-Oct,1,Sí,Sí,Sí,Sí,2,9,Sí
+2018,19,Femenino,SANTIAGO DE SURCO,30 minutos - 1 hora,No,30 - 40,5,No,No,Sí,No,1,4,Sí
+2019,20,Masculino,PUEBLO LIBRE,30 minutos - 1 hora,Sí,10-May,4,No,No,No,No,5,1,No
+2018,18,Masculino,MIRAFLORES,1 hora - 1.30 horas,No,30 - 40,1,Sí,Sí,Sí,No,3,8,Sí
+2016,21,Masculino,LA MOLINA,30 minutos - 1 hora,No,20-Oct,3,Sí,Sí,Sí,No,2,2,Sí
+2018,19,Femenino,LA MOLINA,30 minutos - 1 hora,Sí,20-Oct,5,Sí,Sí,Indiferente,No,4,5,No
+2016,21,Masculino,SAN ISIDRO,1 hora - 1.30 horas,No,20-Oct,1,Sí,No,Sí,Sí,2,7,Sí
+2018,18,Femenino,BARRANCO,30 minutos - 1 hora,No,0 - 5,0,Sí,Sí,Sí,No,1,2,Sí
+2017,21,Femenino,SAN JUAN DE MIRAFLORES,30 minutos - 1 hora,Sí,10-May,4,No,No,Indiferente,No,3,1,No
+2019,16,Masculino,MIRAFLORES,30 minutos - 1 hora,Sí,20-Oct,5,No,Sí,Indiferente,No,1,4,No
+2017,19,Masculino,SANTIAGO DE SURCO,30 minutos - 1 hora,Sí,10-May,5,Sí,No,Sí,No,2,1,Sí
+2017,27,Masculino,MIRAFLORES,30 minutos - 1 hora,No,10-May,2,Sí,Sí,Sí,Sí,1,9,Sí
+2019,17,Femenino,MIRAFLORES,30 minutos - 1 hora,No,10-May,5,Sí,No,Sí,No,5,7,Sí
+2017,19,Masculino,CHORRILLOS,30 minutos - 1 hora,Sí,10-May,4,Sí,Sí,Sí,No,5,6,Sí
+2017,20,Femenino,SANTIAGO DE SURCO,1 hora - 1.30 horas,Sí,20-Oct,5,No,No,Sí,No,7,1,Sí
+2017,20,Masculino,LURIGANCHO-CHOSICA,30 minutos - 1 hora,Sí,0 - 5,5,Sí,No,Sí,Sí,1,8,Sí
+2019,19,Masculino,CHORRILLOS,menos de 30 minutos,Sí,10-May,2,Sí,Sí,Sí,Sí,1,9,Sí
+2019,17,Masculino,BARRANCO,30 minutos - 1 hora,No,10-May,5,Sí,No,Sí,No,2,1,No
+2018,18,Femenino,CHORRILLOS,30 minutos - 1 hora,Sí,0 - 5,0,Sí,Sí,Sí,No,1,1,Sí
+2018,18,Masculino,VILLA EL SALVADOR,1 hora - 1.30 horas,No,10-May,5,Sí,Sí,Sí,Sí,1,7,Sí
+2019,17,Femenino,PUEBLO LIBRE,1 hora - 1.30 horas,Sí,20 - 30,0,Sí,No,Sí,Sí,3,7,Sí
+2019,22,Femenino,SAN JUAN DE MIRAFLORES,30 minutos - 1 hora,No,10-May,1,No,Sí,Indiferente,No,2,6,No
+2018,18,Masculino,ATE,30 minutos - 1 hora,No,20-Oct,0,Sí,No,Sí,No,1,1,Sí
+2018,19,Masculino,CHORRILLOS,30 minutos - 1 hora,Sí,20-Oct,8,No,Sí,Sí,Sí,4,5,Sí
+2018,18,Masculino,CHORRILLOS,30 minutos - 1 hora,Sí,20-Oct,2,Sí,Sí,Sí,No,4,4,Sí
+2019,17,Femenino,LOS OLIVOS,1 hora - 1.30 horas,Sí,10-May,2,Sí,No,Sí,Sí,2,7,Sí
+2019,18,Femenino,SAN JUAN DE MIRAFLORES,menos de 30 minutos,Sí,10-May,2,Sí,Sí,Sí,No,1,4,No
+2017,19,Masculino,MIRAFLORES,30 minutos - 1 hora,No,10-May,1,Sí,Sí,Sí,Sí,1,8,Sí
+2019,17,Femenino,MIRAFLORES,1 hora - 1.30 horas,Sí,0 - 5,1,No,No,Indiferente,No,2,3,Sí
+2018,19,Femenino,SANTIAGO DE SURCO,1 hora - 1.30 horas,Sí,10-May,0,No,No,Indiferente,No,1,1,No
+2019,17,Masculino,CHORRILLOS,1 hora - 1.30 horas,No,10-May,2,Sí,Sí,Sí,No,2,5,Sí
+2018,20,Masculino,SANTIAGO DE SURCO,menos de 30 minutos,Sí,10-May,2,No,No,Indiferente,No,7,1,No
+2018,17,Masculino,LOS OLIVOS,30 minutos - 1 hora,Sí,10-May,0,Sí,No,Sí,Sí,1,6,Sí
+2019,22,Femenino,VILLA MARIA DEL TRIUNFO,30 minutos - 1 hora,Sí,10-May,2,Sí,Sí,Sí,Sí,1,9,Sí
+2017,20,Femenino,BARRANCO,30 minutos - 1 hora,Sí,10-May,2,Sí,No,No,No,4,7,No
+2017,22,Masculino,COMAS,30 minutos - 1 hora,Sí,10-May,2,Sí,No,Sí,No,2,2,Sí
+2016,20,Femenino,LOS OLIVOS,30 minutos - 1 hora,No,20-Oct,5,Sí,No,Indiferente,No,1,7,Sí
+2018,19,Masculino,SURQUILLO,1 hora - 1.30 horas,Sí,20-Oct,0,Sí,No,Sí,No,4,3,Sí
+2018,18,Femenino,MIRAFLORES,30 minutos - 1 hora,No,0 - 5,0,Sí,Sí,Sí,Sí,1,3,Sí
+2019,21,Masculino,SANTIAGO DE SURCO,30 minutos - 1 hora,Sí,20-Oct,2,Sí,Sí,Indiferente,No,2,1,Sí
+2018,18,Femenino,BARRANCO,30 minutos - 1 hora,Sí,10-May,1,No,No,Indiferente,No,1,5,No
+2016,23,Femenino,SANTIAGO DE SURCO,30 minutos - 1 hora,Sí,0 - 5,1,No,No,Sí,No,3,3,No
+2016,20,Femenino,LOS OLIVOS,30 minutos - 1 hora,No,20-Oct,2,Sí,No,Indiferente,No,1,6,Sí
+2017,19,Femenino,LA MOLINA,30 minutos - 1 hora,Sí,20 - 30,5,Sí,Sí,Sí,Sí,2,8,Sí
+2017,19,Femenino,ATE,30 minutos - 1 hora,Sí,10-May,2,No,Sí,Sí,No,3,5,No
+2017,19,Femenino,CHORRILLOS,30 minutos - 1 hora,Sí,20-Oct,5,No,No,Sí,No,4,3,No
+2016,20,Femenino,SAN JUAN DE LURIGANCHO,30 minutos - 1 hora,Sí,20-Oct,3,Sí,No,Sí,Sí,3,7,Sí
+2017,20,Masculino,SAN MARTIN DE PORRES,menos de 30 minutos,No,20-Oct,6,Sí,No,Sí,No,7,6,Sí
+2018,18,Masculino,MIRAFLORES,1 hora - 1.30 horas,No,10-May,2,No,No,Sí,No,7,1,No
+2017,19,Femenino,CHORRILLOS,30 minutos - 1 hora,Sí,20-Oct,70,Sí,No,Sí,Sí,4,8,Sí
+2018,18,Femenino,JESÚS MARÍA,30 minutos - 1 hora,No,10-May,5,Sí,No,Sí,Sí,2,7,Sí
+2017,20,Femenino,SAN ISIDRO,menos de 30 minutos,Sí,10-May,2,Sí,Sí,Indiferente,No,2,3,Sí
+2018,25,Masculino,SANTIAGO DE SURCO,menos de 30 minutos,Sí,20-Oct,1,Sí,No,Sí,Sí,5,10,Sí
+2017,19,Femenino,LOS OLIVOS,30 minutos - 1 hora,No,20-Oct,2,Sí,No,Indiferente,No,2,4,Sí
+2017,19,Masculino,LURIGANCHO-CHOSICA,30 minutos - 1 hora,No,20-Oct,2,Sí,Sí,Sí,Sí,4,3,Sí
+2017,19,Femenino,BARRANCO,30 minutos - 1 hora,Sí,20-Oct,0,Sí,No,Sí,Sí,1,8,Sí
+2017,19,Femenino,BARRANCO,30 minutos - 1 hora,Sí,20-Oct,5,No,No,Sí,No,7,7,No
+2018,21,Masculino,SAN LUIS,30 minutos - 1 hora,No,10-May,3,No,No,Sí,No,2,6,No
+2017,18,Masculino,SANTIAGO DE SURCO,30 minutos - 1 hora,No,20-Oct,0,Sí,Sí,Sí,No,4,10,Sí
+2018,25,Masculino,MIRAFLORES,30 minutos - 1 hora,Sí,20-Oct,3,Sí,No,Sí,No,3,2,Sí
+2018,18,Femenino,MIRAFLORES,30 minutos - 1 hora,No,0 - 5,0,Sí,Sí,Sí,No,1,3,Sí
+2018,18,Masculino,SANTA ANITA,30 minutos - 1 hora,No,20-Oct,1,No,No,Sí,No,3,1,Sí
+2018,19,Femenino,LINCE,30 minutos - 1 hora,Sí,10-May,5,No,No,Sí,Sí,2,7,Sí
+2016,20,Masculino,CHORRILLOS,30 minutos - 1 hora,No,10-May,10,No,Sí,Sí,No,1,5,Sí
+2016,20,Femenino,LIMA,30 minutos - 1 hora,Sí,10-May,6,Sí,No,Indiferente,Sí,3,7,No
+2018,19,Masculino,SANTIAGO DE SURCO,30 minutos - 1 hora,No,20-Oct,5,Sí,No,Sí,No,3,6,Sí
+2018,18,Femenino,SANTIAGO DE SURCO,30 minutos - 1 hora,No,30 - 40,15,No,Sí,Sí,Sí,2,5,Sí
+2018,18,Femenino,LIMA,30 minutos - 1 hora,Sí,20-Oct,5,Sí,Sí,Sí,No,3,8,Sí
+2019,18,Femenino,LA MOLINA,30 minutos - 1 hora,Sí,10-May,0,Sí,Sí,Sí,No,1,2,Sí
+2017,19,Femenino,SAN BORJA,30 minutos - 1 hora,No,20 - 30,2,Sí,Sí,Sí,No,7,3,No
+2016,20,Femenino,SAN JUAN DE LURIGANCHO,30 minutos - 1 hora,Sí,20-Oct,3,Sí,No,Sí,Sí,3,7,Sí
+2017,20,Masculino,SAN MARTIN DE PORRES,1 hora - 1.30 horas,Sí,20-Oct,10,Sí,No,Sí,No,2,5,No
+2018,19,Masculino,LURIGANCHO-CHOSICA,30 minutos - 1 hora,Sí,10-May,0,Sí,No,Indiferente,No,1,7,Sí
+2018,19,Femenino,SANTIAGO DE SURCO,30 minutos - 1 hora,Sí,20-Oct,5,No,No,Sí,No,3,4,No
+2019,19,Femenino,MAGDALENA DEL MAR,30 minutos - 1 hora,Sí,0 - 5,5,Sí,Sí,Sí,Sí,1,5,Sí
+2017,19,Femenino,SANTA ANITA,30 minutos - 1 hora,Sí,10-May,2,Sí,No,Sí,No,4,5,No
+2018,18,Masculino,SAN LUIS,menos de 30 minutos,Sí,20-Oct,1,No,No,Sí,No,3,1,No
+2018,19,Masculino,VILLA MARIA DEL TRIUNFO,30 minutos - 1 hora,No,10-May,5,No,Sí,Indiferente,No,6,6,No
+2017,21,Masculino,SANTIAGO DE SURCO,30 minutos - 1 hora,Sí,10-May,5,No,No,Sí,No,1,1,Sí
+2018,19,Masculino,MIRAFLORES,1.30 horas - 2 horas,Sí,20 - 30,1,Sí,Sí,Sí,Sí,4,6,Sí
+2017,19,Masculino,SAN BORJA,30 minutos - 1 hora,Sí,10-May,3,No,Sí,Indiferente,No,3,1,No
+2019,18,Femenino,SAN JUAN DE MIRAFLORES,30 minutos - 1 hora,No,10-May,3,Sí,No,Sí,Sí,4,8,Sí
+2017,19,Masculino,BARRANCO,menos de 30 minutos,Sí,20 - 30,2,Sí,No,Sí,No,5,5,No
+2018,19,Femenino,LOS OLIVOS,30 minutos - 1 hora,Sí,10-May,5,Sí,Sí,Sí,Sí,3,8,Sí
+2019,18,Femenino,CHORRILLOS,30 minutos - 1 hora,No,20-Oct,5,Sí,Sí,Sí,Sí,4,7,Sí
+2019,19,Femenino,CARABAYLLO,30 minutos - 1 hora,Sí,10-May,5,Sí,No,Sí,Sí,6,9,No
+2018,19,Masculino,SAN BORJA,30 minutos - 1 hora,Sí,10-May,0,Sí,Sí,Indiferente,No,1,1,No
+2018,19,Femenino,RÍMAC,1 hora - 1.30 horas,Sí,20 - 30,8,No,Sí,Sí,No,2,6,Sí
+2018,19,Masculino,MIRAFLORES,30 minutos - 1 hora,Sí,10-May,2,Sí,Sí,Sí,Sí,3,8,Sí
+2018,17,Femenino,BARRANCO,30 minutos - 1 hora,Sí,20-Oct,5,Sí,No,Sí,No,4,7,No
+2016,20,Femenino,SANTIAGO DE SURCO,30 minutos - 1 hora,Sí,20-Oct,7,Sí,Sí,Sí,Sí,5,7,Sí
+2016,20,Masculino,VILLA EL SALVADOR,30 minutos - 1 hora,No,20-Oct,3,No,No,Sí,No,2,6,Sí
+2018,21,Masculino,VILLA MARIA DEL TRIUNFO,1 hora - 1.30 horas,No,50 +,5,Sí,Sí,Indiferente,No,3,5,No
+2018,19,Masculino,LIMA,30 minutos - 1 hora,Sí,10-May,1,Sí,No,Sí,No,1,1,Sí
+2017,19,Femenino,MAGDALENA DEL MAR,30 minutos - 1 hora,Sí,10-May,2,Sí,No,Sí,Sí,2,7,Sí
+2017,19,Masculino,LURIGANCHO-CHOSICA,30 minutos - 1 hora,Sí,20 - 30,5,Sí,Sí,Sí,Sí,3,7,Sí
+2016,21,Masculino,JESÚS MARÍA,30 minutos - 1 hora,Sí,10-May,2,Sí,No,Sí,No,5,5,Sí
+2019,17,Masculino,SANTIAGO DE SURCO,30 minutos - 1 hora,Sí,20-Oct,5,Sí,Sí,Sí,Sí,2,6,Sí
+2017,20,Femenino,MIRAFLORES,menos de 30 minutos,No,10-May,7,Sí,Sí,Sí,Sí,4,5,Sí
+2017,19,Masculino,SAN JUAN DE MIRAFLORES,menos de 30 minutos,Sí,0 - 5,1,No,Sí,Sí,No,5,3,No
+2017,19,Masculino,BARRANCO,menos de 30 minutos,Sí,20-Oct,18,Sí,No,Sí,No,6,6,Sí
+2017,19,Femenino,SANTIAGO DE SURCO,1 hora - 1.30 horas,No,0 - 5,0,Sí,Sí,Sí,Sí,1,4,Sí
+2017,20,Masculino,SAN MIGUEL,30 minutos - 1 hora,No,20-Oct,2,No,Sí,Indiferente,No,7,1,No
+2016,22,Masculino,LA MOLINA,30 minutos - 1 hora,Sí,20-Oct,5,Sí,Sí,Sí,Sí,2,7,Sí
+2019,20,Masculino,CHORRILLOS,30 minutos - 1 hora,No,20-Oct,1,Sí,Sí,Sí,No,2,1,No
+2018,18,Masculino,SAN LUIS,30 minutos - 1 hora,Sí,20-Oct,2,No,No,Indiferente,No,2,1,No
+2018,19,Femenino,MAGDALENA DEL MAR,30 minutos - 1 hora,No,10-May,0,Sí,Sí,Sí,Sí,1,3,Sí
+2017,20,Femenino,MIRAFLORES,menos de 30 minutos,Sí,10-May,5,Sí,Sí,Sí,Sí,2,7,Sí
+2016,20,Femenino,SURQUILLO,30 minutos - 1 hora,No,10-May,9,No,Sí,Indiferente,No,2,3,No
+2017,19,Masculino,VILLA EL SALVADOR,30 minutos - 1 hora,Sí,20-Oct,5,No,No,Indiferente,No,4,3,Sí
+2019,17,Masculino,SANTIAGO DE SURCO,1 hora - 1.30 horas,No,20 - 30,2,Sí,No,Sí,Sí,3,10,Sí
+2017,19,Masculino,BARRANCO,1 hora - 1.30 horas,No,10-May,2,Sí,Sí,Sí,No,3,4,No
+2018,18,Masculino,SANTIAGO DE SURCO,30 minutos - 1 hora,No,20-Oct,6,No,No,Indiferente,No,3,1,No
+2018,18,Femenino,BARRANCO,menos de 30 minutos,Sí,20-Oct,3,Sí,No,Sí,No,2,8,Sí
+2018,18,Femenino,SANTIAGO DE SURCO,30 minutos - 1 hora,Sí,10-May,3,No,No,Sí,No,3,1,Sí
+2017,18,Masculino,LIMA,30 minutos - 1 hora,Sí,20-Oct,70,Sí,No,Sí,No,7,8,Sí
+2017,19,Femenino,ATE,30 minutos - 1 hora,Sí,20-Oct,1,Sí,No,Sí,Sí,1,8,Sí
+2018,18,Masculino,SAN MIGUEL,30 minutos - 1 hora,Sí,10-May,20,Sí,No,Indiferente,No,2,1,Sí
+2017,20,Masculino,SAN MARTIN DE PORRES,30 minutos - 1 hora,Sí,20-Oct,3,Sí,No,Sí,No,1,5,No
+2019,17,Masculino,SANTIAGO DE SURCO,1 hora - 1.30 horas,No,20 - 30,2,Sí,No,Sí,Sí,3,10,Sí
+2017,19,Femenino,ATE,30 minutos - 1 hora,Sí,20-Oct,1,Sí,No,Sí,Sí,1,8,Sí
+2018,19,Femenino,MIRAFLORES,30 minutos - 1 hora,Sí,20 - 30,2,Sí,Sí,Sí,No,4,8,Sí
+2018,20,Femenino,SAN ISIDRO,30 minutos - 1 hora,Sí,30 - 40,1,Sí,Sí,Sí,Sí,2,10,Sí
+2017,19,Femenino,BARRANCO,30 minutos - 1 hora,No,20-Oct,10,Sí,Sí,Sí,Sí,7,10,Sí
+2016,22,Femenino,LA VICTORIA,menos de 30 minutos,No,10-May,3,Sí,Sí,Sí,Sí,5,10,Sí
+2017,19,Femenino,BARRANCO,30 minutos - 1 hora,Sí,20-Oct,1,Sí,No,Sí,Sí,5,8,Sí
+2017,19,Femenino,BARRANCO,30 minutos - 1 hora,Sí,20-Oct,1,Sí,No,Sí,Sí,5,8,Sí
+2016,21,Femenino,JESÚS MARÍA,1.30 horas - 2 horas,Sí,10-May,0,No,Sí,Sí,No,2,5,No
+2018,18,Femenino,SAN MIGUEL,menos de 30 minutos,No,20 - 30,0,Sí,No,Sí,Sí,5,5,Sí
+2018,18,Femenino,SANTIAGO DE SURCO,30 minutos - 1 hora,Sí,20-Oct,0,Sí,No,Sí,Sí,2,7,No
+2016,20,Masculino,SURQUILLO,30 minutos - 1 hora,No,10-May,1,Sí,Sí,Sí,Sí,1,6,No
+2016,24,Masculino,SANTIAGO DE SURCO,30 minutos - 1 hora,No,20-Oct,1,Sí,Sí,Sí,Sí,4,9,Sí
+2018,19,Femenino,MIRAFLORES,30 minutos - 1 hora,Sí,20 - 30,2,Sí,Sí,Sí,No,4,8,Sí
+2017,22,Masculino,SAN MIGUEL,30 minutos - 1 hora,No,20 - 30,6,Sí,Sí,Sí,No,3,6,No
+2018,18,Masculino,CHORRILLOS,1.30 horas - 2 horas,No,10-May,2,No,Sí,Sí,No,2,2,Sí
+2019,17,Masculino,SAN BORJA,1.30 horas - 2 horas,Sí,20-Oct,2,No,Sí,Indiferente,No,3,1,Sí
+2017,21,Masculino,LA MOLINA,30 minutos - 1 hora,Sí,20-Oct,1,Sí,Sí,Sí,Sí,2,9,Sí
+2018,19,Femenino,SANTIAGO DE SURCO,30 minutos - 1 hora,No,30 - 40,5,No,No,Sí,No,1,4,Sí
+2019,20,Masculino,PUEBLO LIBRE,30 minutos - 1 hora,Sí,10-May,4,No,No,No,No,5,1,No
+2018,18,Masculino,MIRAFLORES,1 hora - 1.30 horas,No,30 - 40,1,Sí,Sí,Sí,No,3,8,Sí
+2016,21,Masculino,LA MOLINA,30 minutos - 1 hora,No,20-Oct,3,Sí,Sí,Sí,No,2,2,Sí
+2018,19,Femenino,LA MOLINA,30 minutos - 1 hora,Sí,20-Oct,5,Sí,Sí,Indiferente,No,4,5,No
+2016,21,Masculino,SAN ISIDRO,1 hora - 1.30 horas,No,20-Oct,1,Sí,No,Sí,Sí,2,7,Sí
+2018,18,Femenino,BARRANCO,30 minutos - 1 hora,No,0 - 5,0,Sí,Sí,Sí,No,1,2,Sí
+2017,21,Femenino,SAN JUAN DE MIRAFLORES,30 minutos - 1 hora,Sí,10-May,4,No,No,Indiferente,No,3,1,No
+2019,16,Masculino,MIRAFLORES,30 minutos - 1 hora,Sí,20-Oct,5,No,Sí,Indiferente,No,1,4,No
+2017,19,Masculino,SANTIAGO DE SURCO,30 minutos - 1 hora,Sí,10-May,5,Sí,No,Sí,No,2,1,Sí
+2017,27,Masculino,MIRAFLORES,30 minutos - 1 hora,No,10-May,2,Sí,Sí,Sí,Sí,1,9,Sí
+2019,17,Femenino,MIRAFLORES,30 minutos - 1 hora,No,10-May,5,Sí,No,Sí,No,5,7,Sí
+2017,19,Masculino,CHORRILLOS,30 minutos - 1 hora,Sí,10-May,4,Sí,Sí,Sí,No,5,6,Sí
+2017,20,Femenino,SANTIAGO DE SURCO,1 hora - 1.30 horas,Sí,20-Oct,5,No,No,Sí,No,7,1,Sí
+2017,20,Masculino,LURIGANCHO-CHOSICA,30 minutos - 1 hora,Sí,0 - 5,5,Sí,No,Sí,Sí,1,8,Sí
+2019,19,Masculino,CHORRILLOS,menos de 30 minutos,Sí,10-May,2,Sí,Sí,Sí,Sí,1,9,Sí
+2019,17,Masculino,BARRANCO,30 minutos - 1 hora,No,10-May,5,Sí,No,Sí,No,2,1,No
+2018,18,Femenino,CHORRILLOS,30 minutos - 1 hora,Sí,0 - 5,0,Sí,Sí,Sí,No,1,1,Sí
+2018,18,Masculino,VILLA EL SALVADOR,1 hora - 1.30 horas,No,10-May,5,Sí,Sí,Sí,Sí,1,7,Sí
+2019,17,Femenino,PUEBLO LIBRE,1 hora - 1.30 horas,Sí,20 - 30,0,Sí,No,Sí,Sí,3,7,Sí
+2019,22,Femenino,SAN JUAN DE MIRAFLORES,30 minutos - 1 hora,No,10-May,1,No,Sí,Indiferente,No,2,6,No
+2018,18,Masculino,ATE,30 minutos - 1 hora,No,20-Oct,0,Sí,No,Sí,No,1,1,Sí
+2018,19,Masculino,CHORRILLOS,30 minutos - 1 hora,Sí,20-Oct,8,No,Sí,Sí,Sí,4,5,Sí
+2018,18,Masculino,CHORRILLOS,30 minutos - 1 hora,Sí,20-Oct,2,Sí,Sí,Sí,No,4,4,Sí
+2019,17,Femenino,LOS OLIVOS,1 hora - 1.30 horas,Sí,10-May,2,Sí,No,Sí,Sí,2,7,Sí
+2019,18,Femenino,SAN JUAN DE MIRAFLORES,menos de 30 minutos,Sí,10-May,2,Sí,Sí,Sí,No,1,4,No
+2017,19,Masculino,MIRAFLORES,30 minutos - 1 hora,No,10-May,1,Sí,Sí,Sí,Sí,1,8,Sí
+2019,17,Femenino,MIRAFLORES,1 hora - 1.30 horas,Sí,0 - 5,1,No,No,Indiferente,No,2,3,Sí
+2018,19,Femenino,SANTIAGO DE SURCO,1 hora - 1.30 horas,Sí,10-May,0,No,No,Indiferente,No,1,1,No
+2019,17,Masculino,CHORRILLOS,1 hora - 1.30 horas,No,10-May,2,Sí,Sí,Sí,No,2,5,Sí
+2018,20,Masculino,SANTIAGO DE SURCO,menos de 30 minutos,Sí,10-May,2,No,No,Indiferente,No,7,1,No
+2018,17,Masculino,LOS OLIVOS,30 minutos - 1 hora,Sí,10-May,0,Sí,No,Sí,Sí,1,6,Sí
